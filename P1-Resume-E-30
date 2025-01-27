@@ -1,10 +1,102 @@
 <!DOCTYPE html>
-<html>
- <head>
-   <title>RESUME</title>
- </head>
- <body>
-<h1 style="colour:purple;border:5px solid purple;text-align:center;"> Nirmal Nilesh Mahajan</h1>
-<div style="background-color:olive>
-<img src="" width=200 height style="align:left">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; background-color: #f4f4f9; color: #333; margin: 0; padding: 20px;">
 
+    <div style="max-width: 800px; margin: 0 auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+        
+        <!-- Header Section -->
+        <div style="display: flex; align-items: center; margin-bottom: 20px;">
+            <!-- Photo -->
+            <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+                <!-- Image inserted here -->
+                <img src="https://assets.onecompiler.app/437abkk3a/437abhv6r/WhatsApp%20Image%202025-01-12%20at%203.54.50%20AM.jpeg" alt="Profile Picture" style="width: 100%; height: 100%; object-fit: cover;">
+            </div>
+            
+            <!-- About Info -->
+            <div>
+                <h1 style="margin: 0;">Nirmal Mahajan</h1>
+                <p style="margin: 5px 0;">Phone: +91 xxxxx54116</p>
+                <p style="margin: 5px 0;">Email: nirmalmahajan185@gmail.com</p>
+                <p style="margin: 5px 0;">About: Enjoyful</p>
+            </div>
+        </div>
+
+        <!-- Education Section -->
+        <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+            <!-- Education -->
+            <div style="width: 100%;">
+                <h2 style="margin-bottom: 10px;">Education</h2>
+                <table style="width: 100%; border-collapse: collapse;">
+                    <tr style="background-color: #f4f4f9;">
+                        <th style="border: 1px solid #ccc; padding: 8px;">Degree/Class</th>
+                        <th style="border: 1px solid #ccc; padding: 8px;">Board/University</th>
+                        <th style="border: 1px solid #ccc; padding: 8px;">Year</th>
+                        <th style="border: 1px solid #ccc; padding: 8px;">Percentage</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid #ccc; padding: 8px;">10th</td>
+                        <td style="border: 1px solid #ccc; padding: 8px;">Board</td>
+                        <td style="border: 1px solid #ccc; padding: 8px;">2022</td>
+                        <td style="border: 1px solid #ccc; padding: 8px;">85</td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid #ccc; padding: 8px;">12th</td>
+                        <td style="border: 1px solid #ccc; padding: 8px;">Board</td>
+                        <td style="border: 1px solid #ccc; padding: 8px;">2024</td>
+                        <td style="border: 1px solid #ccc; padding: 8px;">86</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- Mini Project Section -->
+        <div style="margin-bottom: 20px;">
+            <h2 style="margin-bottom: 10px;">Mini Project</h2>
+            <p>[Project Name]: [Brief Description]</p>
+            <p>GitHub: [Link] | Kaggle: [Link] | Drive: [Link]</p>
+        </div>
+
+        <!-- Achievements and Certifications Section -->
+        <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+            <!-- Achievements -->
+            <div style="width: 48%;">
+                <h2 style="margin-bottom: 10px;">Achievements</h2>
+                <ul style="list-style: none; padding: 0;">
+                    <li style="margin-bottom: 5px;">State Topper in Board</li>
+                </ul>
+            </div>
+            
+            <!-- Certifications -->
+            <div style="width: 48%;">
+                <h2 style="margin-bottom: 10px;">Certifications</h2>
+                <ul style="list-style: none; padding: 0;">
+                    <li style="margin-bottom: 5px;">Introduction to HTML</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Personal Info and Signature -->
+        <div style="display: flex; justify-content: space-between; align-items: flex-end;">
+            <!-- Personal Info -->
+            <div style="width: 48%;">
+                <h2 style="margin-bottom: 10px;">Personal Information</h2>
+                <p><strong>Date of Birth:</strong> 20/03/2006</p>
+                <p><strong>Address:</strong> Collina Apartment kanhe</p>
+            </div>
+            
+            <!-- Signature -->
+            <div style="text-align: right; width: 48%;">
+                <p style="margin-bottom: 50px;">NIRMAL</p>
+                <p style="border-top: 1px solid #333; display: inline-block; padding-top: 5px;">Signature</p>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>
